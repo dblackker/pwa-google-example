@@ -1,0 +1,14 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Black",
+  "license": "ISC",
+  "dependencies": {
+    "idb": "^2.0.1"
+  }
+}
